@@ -1,0 +1,6 @@
+I am a software engineer with 10 years of experience in software development.
+My expertise includes native Cloud architecture Java, nodejs and AWS. 
+
+Currently, I'm focused on Agentic AI architecture and developments.
+
+My background includes great experience in designing micro-service solution deployed in AWS cloud.
